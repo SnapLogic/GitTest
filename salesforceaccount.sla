@@ -1,0 +1,43 @@
+{
+    "class_id": "com-snaplogic-snaps-salesforce-salesforceaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "Automation"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "salesforceaccount"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "loginUrl": {
+                "value": "https://login.salesforce.com"
+            },
+            "password": {
+                "fp": "dc99140106eb32e0b07b642ef73ac8567da1cd6c224061ad45f4488d481ac964",
+                "key": "account-cloud-managed-57b2d2b480b28263805167bb-2016-08-16T08:46:01-372609",
+                "sym_iv": "i+sPvQh5Zwg+qUUdu7FgZA==",
+                "sym_key": "SPGzBmHcdxe6oT8ZpCWGCyJnhcfPitAoz2//IFAG6WWz6cVt7JzCiluG6WTufIqS9K0+2NtpmMtbvbvdKvTdFvm877FFCnThQELtdfc2rIucjjY3yqSUqCVtRylNTR4AtqgOddaBDqEfSWYXb3ILkfGoDJZFfO0a/pdmVOhBAGIBbAndVw5fjWaSWcdZVjcht6CKTNcCXQanzVFZlEiImLSPyp9lOlfZA5ATc/IySxg/UR/SRlhyLVCEQWdWOkgl8kPEIyBlzaoya02V+LafVoU5JowTYXZ1vPfSxBkUXxafri3h++Zfo0cZkJK3EVC/Fs0GzQRsv3cC3vqTVSDhMA==",
+                "value": "WdkC5HMHy7uqLCVo0bUOog=="
+            },
+            "sandbox": {
+                "value": false
+            },
+            "securityToken": {
+                "fp": "dc99140106eb32e0b07b642ef73ac8567da1cd6c224061ad45f4488d481ac964",
+                "key": "account-cloud-managed-57b2d2b480b28263805167bb-2016-08-16T08:46:01-372609",
+                "sym_iv": "59IzyZvhcwHLZw5D5CRMVQ==",
+                "sym_key": "ezXRzP2SdvqCLeBanO1k2x5xLwrwmWjCqQy6rf0JoR8qNWTld9vqeK1zPNGj4yahoJ9voLeLB137nPIZ67ygBHB4b8YNgODTJWO5GarxyfcVmB7dsBPFmBg7BRsKC69vruYULeDVPBTjNayFa7VLbqbNxKfK9D2Jux8jiTBtf8NnBaSQ0gAFs5z15c/mzsWIl+GnSZXu3tpJJm4xLwbnt1Ki2LeWauvPec/0pAKa5DGiGXM20P1LNdVExBVI/cue/AqNgyXclTcAnICVUCI5UGy8z+HL+sq8iAtwwDfxwUWUHR8RZaP+wojhTpCFs/K9SgvGvWc3wv8vyWm2t7WNpA==",
+                "value": "2Tw46a2ntKJvbZf518Jr8A=="
+            },
+            "username": {
+                "value": "imalonzo@snaplogic.com"
+            }
+        },
+        "view_serial": 100
+    }
+}
