@@ -1,6 +1,6 @@
 {
     "job_class": "PipelineJob",
-    "job_name": "pet",
+    "job_name": "pettask",
     "note": "",
     "parameters": {
         "enabled": true,
@@ -9,10 +9,21 @@
         "job_alias": null,
         "job_type": "standard",
         "notification": {
-            "recipients": null
+            "recipients": null,
+            "slack_recipients": [
+                {
+                    "channel": [],
+                    "user": []
+                }
+            ]
+        },
+        "pipeline_parameters": {
+            "API_KEY": "",
+            "status": "",
+            "tags": ""
         },
         "pipeline_path": "pet_pipeline",
-        "snaplex_path": null
+        "snaplex_path": "Cloudplex"
     },
     "schedule": {},
     "trigger": {},
